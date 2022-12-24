@@ -3,3 +3,19 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.center{
+  display: flex;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  background-color: #eb9d02;
+}
+
+.premios{
+  padding: 1rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
